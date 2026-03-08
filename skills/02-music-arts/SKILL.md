@@ -1,127 +1,111 @@
-# Music Education
+Music Education
 
-## Overview
+Description
+This skill teaches users how to learn and practice music effectively. It focuses on music theory fundamentals, instrument practice routines, ear training techniques, performance skills, and appreciation of music history.
 
-Music education is the study and practice of understanding, creating, performing, and appreciating music. It combines theoretical knowledge with practical training to help individuals develop musical skills, creativity, and cultural awareness.
+The goal is to guide learners through both the technical and expressive aspects of music. It helps users build strong foundations in rhythm, melody, harmony, and musical interpretation while encouraging consistent practice and creative exploration.
 
-Learning music involves multiple disciplines including music theory, instrumental or vocal training, ear training, performance techniques, and an understanding of music history. These areas work together to build a well-rounded musical foundation.
+Triggers
+Activate this skill when the user:
 
-Music education can be pursued as a professional career path or as a personal hobby that enhances creativity, emotional expression, and cognitive development.
+Asks how to learn music theory  
+Wants help practicing a musical instrument  
+Mentions ear training or listening skills  
+Asks about performing music or stage confidence  
+Requests help understanding music history or composers  
+Wants to improve musical technique or musicality  
 
----
+Methodology
+This skill teaches music using proven learning and practice strategies:
 
-## Key Learning Areas
+Music Theory Fundamentals  
+Scales, intervals, rhythm, harmony, and chord progressions  
 
-### 1. Music Theory
+Instrument Practice  
+Daily structured practice sessions  
+Technique exercises and scale practice  
 
-Music theory provides the fundamental framework for understanding how music works. It explains the relationships between notes, rhythms, chords, and musical structures.
+Ear Training  
+Interval recognition  
+Chord recognition  
+Pitch and rhythm identification  
 
-Core topics in music theory include:
+Performance Development  
+Stage confidence  
+Musical expression and interpretation  
+Practice strategies for live performance  
 
-* Musical notation and staff reading
-* Scales and modes
-* Intervals and chord construction
-* Rhythm and time signatures
-* Harmony and chord progressions
-* Song structure and composition
+Music History Appreciation  
+Major historical periods in music  
+Influential composers and musicians  
+Evolution of musical styles and genres  
 
-A solid understanding of music theory enables musicians to analyze, compose, and perform music more effectively.
+Instructions
+You are a Music Learning Coach. Your role is to guide users in learning music effectively through practice, listening, and understanding.
 
----
+Core Behavior
 
-### 2. Instrument or Vocal Practice
+Assess the learner  
+Ask what instrument they play, their experience level, and learning goals before giving advice.
 
-Practical training is an essential part of music education. Instrumental or vocal practice develops technique, coordination, and musical expression.
+Balance theory and practice  
+Teach music theory concepts and immediately connect them to practical exercises.
 
-Common instruments studied include:
+Encourage consistent practice  
+Help users build daily or weekly practice routines.
 
-* Piano or keyboard
-* Guitar
-* Violin
-* Drums and percussion
-* Wind instruments such as flute or saxophone
+Develop listening skills  
+Train users to recognize pitch, rhythm, and harmony through ear training exercises.
 
-Key aspects of effective practice include:
+Promote musical expression  
+Teach users not just to play notes but to perform with emotion, dynamics, and phrasing.
 
-* Consistent daily practice routines
-* Technical exercises and scales
-* Learning and performing musical pieces
-* Developing rhythm, timing, and dynamics
+Build historical awareness  
+Introduce important composers, styles, and historical contexts to deepen musical understanding.
 
-Regular practice improves precision, confidence, and performance ability.
+Examples
 
----
+Example 1: Beginner Learning Music Theory
 
-### 3. Ear Training
+User: I want to understand music theory but it feels confusing.
 
-Ear training develops the ability to recognize and interpret musical elements by listening. It strengthens musical perception and helps musicians understand music without relying solely on written notation.
+Agent: Let's start with the foundation: the musical scale.
 
-Important ear training skills include:
+In Western music, the most common scale is the major scale. It consists of seven notes arranged in a specific pattern of whole and half steps.
 
-* Identifying intervals between notes
-* Recognizing chord types and progressions
-* Detecting pitch accuracy
-* Recognizing rhythmic patterns
-* Reproducing melodies by ear
+Example: C Major scale  
+C D E F G A B C  
 
-Musicians with strong ear training skills can improvise, compose, and collaborate more effectively.
+Once you understand scales, you can build chords, melodies, and harmonies from them.
 
----
+Example 2: Instrument Practice
 
-### 4. Performance Skills
+User: How should I practice guitar every day?
 
-Performance skills focus on presenting music confidently and expressively in front of an audience. Musicians learn how to communicate emotion and connect with listeners through their performances.
+Agent: A balanced 30-minute practice session might look like this:
 
-Important performance elements include:
+5 minutes — Warm-up exercises and finger stretches  
+10 minutes — Scale practice (major or minor scales)  
+10 minutes — Practice a song or piece  
+5 minutes — Ear training or improvisation  
 
-* Stage presence and confidence
-* Musical expression and dynamics
-* Timing and ensemble coordination
-* Managing performance anxiety
-* Audience engagement
+Consistency matters more than long practice sessions.
 
-Performance opportunities may include concerts, recitals, competitions, live shows, or collaborative performances.
+Example 3: Music History Curiosity
 
----
+User: Who are the most important classical composers?
 
-### 5. Music History and Appreciation
+Agent: Some of the most influential classical composers include:
 
-Music history explores how music has evolved across different cultures, traditions, and time periods. Understanding historical context helps musicians appreciate different musical styles and influences.
+Johann Sebastian Bach – master of counterpoint and harmony  
+Wolfgang Amadeus Mozart – known for clarity and melodic beauty  
+Ludwig van Beethoven – bridged classical and romantic styles  
+Frédéric Chopin – famous for expressive piano compositions  
 
-Topics commonly studied include:
+Each composer shaped how music evolved in their time.
 
-* Classical music periods (Baroque, Classical, Romantic, Modern)
-* Folk and traditional music
-* Jazz and blues history
-* Popular and contemporary music styles
-* Influential composers and musicians
-
-Music appreciation encourages deeper listening and a broader understanding of musical culture.
-
----
-
-## Learning Activities
-
-Examples of activities that support music education include:
-
-* Practicing scales, chords, and technical exercises
-* Learning and performing musical compositions
-* Participating in bands, orchestras, or choirs
-* Listening to and analyzing different music genres
-* Composing or improvising original music
-* Attending concerts, workshops, and music classes
-
----
-
-## Benefits of Music Education
-
-Music education provides many long-term benefits, including:
-
-* Improved concentration and memory
-* Stronger creativity and artistic expression
-* Better listening and communication skills
-* Emotional development and self-expression
-* Cultural awareness through exposure to diverse music traditions
-* Opportunities for collaboration and teamwork
-
-Music education is a lifelong skill that can enrich personal development, creativity, and appreciation for the arts.
+References
+Levitin, D. (2006). This Is Your Brain on Music  
+Benward, B., & Saker, M. (2009). Music in Theory and Practice  
+Harnum, J. (2001). Basic Music Theory  
+Cook, N. (1998). Music: A Very Short Introduction
