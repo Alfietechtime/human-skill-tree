@@ -40,11 +40,11 @@ These are not hypothetical questions. They are **the** questions of our time.
 
 Here's what we know from the latest research:
 
-> **AI tutoring dramatically improves learning — but only with pedagogical guardrails.** A large-scale randomized controlled trial published in *PNAS* found that GPT-4-based tutoring improved high school math performance by 48–127%. However, without structured pedagogical design, students became dependent on AI and showed reduced skill acquisition. Carefully designed guardrails — like providing hints instead of answers — restored learning gains.
+> **AI tutoring dramatically improves learning, but only with pedagogical guardrails.** A large-scale randomized controlled trial published in *PNAS* found that GPT-4-based tutoring improved high school math performance by 48–127%. Without structured pedagogical design, students became dependent on AI and showed reduced skill acquisition. Carefully designed guardrails (providing hints instead of answers) restored learning gains.
 >
 > — [Bastani et al. (2025), *PNAS*, 122(26)](https://www.pnas.org/doi/10.1073/pnas.2422633122)
 
-> **Spaced repetition and active recall are the most effective learning techniques known to science.** A meta-analysis of 242 studies with 169,000+ participants confirmed that practice testing and distributed practice outperform all other methods — including re-reading, highlighting, and summarizing.
+> **Spaced repetition and active recall are the most effective learning techniques known to science.** A meta-analysis of 242 studies with 169,000+ participants confirmed that practice testing and distributed practice outperform all other methods, including re-reading, highlighting, and summarizing.
 >
 > — [Dunlosky et al. (2013), *Psychological Science in the Public Interest*](https://journals.sagepub.com/doi/abs/10.1177/1529100612453266); [Donoghue & Hattie (2021)](https://doi.org/10.3389/feduc.2021.657895)
 
@@ -52,7 +52,7 @@ Here's what we know from the latest research:
 >
 > — [Tabibian et al. (2019), *PNAS*, 116(10), 3988–3993](https://www.pnas.org/doi/10.1073/pnas.1815156116)
 
-The science is clear: **AI + cognitive science = the most powerful learning combination in human history.** But there's a gap — AI agents have no built-in pedagogical structure. They know everything but teach nothing.
+The science is clear: **AI + cognitive science = the most powerful learning combination in human history.** The gap? AI agents have no built-in pedagogical structure. They know everything but teach nothing.
 
 **Human Skill Tree fills that gap.**
 
@@ -62,7 +62,7 @@ The science is clear: **AI + cognitive science = the most powerful learning comb
 
 A collection of **30+ ready-to-use AI agent skills** that transform ChatGPT, Claude, Gemini, Copilot, DeepSeek, or any compatible AI into a **structured, science-backed learning companion**.
 
-Not a chatbot. Not a course platform. An **upgrade to how AI interacts with humans who want to learn**.
+It's an **upgrade to how AI interacts with humans who want to learn**.
 
 ### 💬 See the Difference
 
@@ -414,7 +414,7 @@ If Human Skill Tree helps you learn anything, consider:
 
 ## 这个时代的问题
 
-2025 年，AI 智能体获得了操控现实世界的能力——通过 Skill、MCP 和工具调用。Claude 能运行代码、查询数据库、控制浏览器。ChatGPT 能联网搜索、写代码、分析数据。Gemini 能看、能听、能与物理世界交互。
+2025 年，AI 智能体通过 Skill、MCP 和工具调用，获得了操控现实世界的能力。Claude 能运行代码、查询数据库、控制浏览器。ChatGPT 能联网搜索、写代码、分析数据。Gemini 能看、能听、能与物理世界交互。
 
 **AI 有了自己的技能树。人类呢？**
 
@@ -429,7 +429,7 @@ If Human Skill Tree helps you learn anything, consider:
 
 最新研究告诉我们：
 
-> **AI 辅导可大幅提升学习效果——但前提是有教学结构。** 发表在 *PNAS* 上的大规模随机对照试验发现：GPT-4 辅导使高中数学成绩提升 48–127%，但缺乏教学设计时，学生会依赖 AI 而技能习得下降。精心设计的教学引导（如给提示而非答案）可恢复学习效果。
+> **AI 辅导可大幅提升学习效果，但前提是有教学结构。** 发表在 *PNAS* 上的大规模随机对照试验发现：GPT-4 辅导使高中数学成绩提升 48–127%，但缺乏教学设计时学生会依赖 AI，技能习得反而下降。精心设计的教学引导（给提示而非答案）才能恢复学习效果。
 >
 > — [Bastani et al. (2025), *PNAS*](https://www.pnas.org/doi/10.1073/pnas.2422633122)
 
@@ -437,7 +437,7 @@ If Human Skill Tree helps you learn anything, consider:
 >
 > — [Dunlosky et al. (2013)](https://journals.sagepub.com/doi/abs/10.1177/1529100612453266); [Donoghue & Hattie (2021)](https://doi.org/10.3389/feduc.2021.657895)
 
-科学结论很清晰：**AI + 认知科学 = 人类历史上最强大的学习组合。** 但有一个缺口——AI 智能体没有内置的教学结构。它们什么都知道，但什么都不会教。
+科学结论很清晰：**AI + 认知科学 = 人类历史上最强大的学习组合。** 问题在于，AI 智能体没有内置的教学结构。它们什么都知道，但什么都不会教。
 
 **人类技能树填补这个缺口。**
 
