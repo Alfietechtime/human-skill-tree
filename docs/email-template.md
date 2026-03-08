@@ -33,7 +33,7 @@
 感谢您的时间！
 
 24kchengYe
-GitHub: https://github.com/24kchengYe
+GitHub: https://github.com/24kchengYe/human-skill-tree
 
 ---
 

@@ -192,6 +192,6 @@ npx skills install 24kchengYe/human-skill-tree
 
 ---
 
-*作者：24kchengYe · [GitHub](https://github.com/24kchengYe) · 如果觉得有用，请给项目一个 ⭐*
+*作者：24kchengYe · [GitHub](https://github.com/24kchengYe/human-skill-tree) · 如果觉得有用，请给项目一个 ⭐*
 
 *#AI教育 #认知科学 #人类技能树 #ChatGPT #Claude #AI学习 #终身学习 #开源教育*
