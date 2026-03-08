@@ -95,25 +95,25 @@ Not a chatbot. Not a course platform. An **upgrade to how AI interacts with huma
 <tr>
 <td>
 
-**You:** 饭局怎么表现？
+**You:** My code has a bug, help me fix it
 
-**AI:** 饭局中要注意礼仪，尊重他人，适度饮酒...
+**AI:** The issue is on line 12. Change `arr[i]` to `arr[i-1]`. Here's the corrected code...
 
-*(generic advice)*
+*(gives you the answer directly — you learn nothing)*
 
 </td>
 <td>
 
-**You:** 饭局怎么表现？
+**You:** My code has a bug, help me fix it
 
-**AI:** 先确认几个关键信息：
-1. 你是最年轻的吗？
-2. 体制内还是民企？
-3. 你的直属领导在场吗？
+**AI:** Let's debug this together. Before I look at the answer:
+1. What did you **expect** to happen?
+2. What **actually** happened?
+3. Which line do you think is suspicious?
 
-要不要我模拟这个场景，我扮演客户，你来练习？
+Try adding a `print(i, arr[i])` inside the loop — what do you see?
 
-*(scenario simulation with cultural context)*
+*(guides your debugging thinking — you learn the skill, not just the fix)*
 
 </td>
 </tr>
