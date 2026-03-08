@@ -2,45 +2,112 @@
 
 # 🌳 Human Skill Tree
 
-### AI-Powered Skills for Lifelong Human Learning
+### The Operating System for Human Learning in the Age of AI
 
-*From "What is 1+1?" to "How do I navigate office politics?"*
+*AI got superpowers through Skills and MCPs. What about humans?*
 
-[English](README.md) · [中文](README_CN.md)
+**[English](#the-question) · [中文](#关于这个项目)**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/Skills-30+-brightgreen)](#skill-tree-overview)
-[![Subjects](https://img.shields.io/badge/Subjects-800+-orange)](#skill-tree-overview)
+[![Skills](https://img.shields.io/badge/Skills-30+-brightgreen)](#-skill-tree)
+[![Subjects](https://img.shields.io/badge/Subjects-800+-orange)](#-skill-tree)
 [![Standard](https://img.shields.io/badge/Standard-Agent_Skills-blueviolet)](https://github.com/anthropics/skills)
-[![Tools](https://img.shields.io/badge/Works_With-Claude_Code_|_Cursor_|_Codex_|_Gemini_CLI-blue)](#installation)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-Compatible-8A2BE2)](#installation)
+[![Cursor](https://img.shields.io/badge/Cursor-Compatible-00A67E)](#installation)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-Codex-74AA9C)](#installation)
+[![Gemini](https://img.shields.io/badge/Gemini_CLI-Compatible-4285F4)](#installation)
 
 </div>
 
 ---
 
-> **AI is the greatest tutor humanity has ever had** — infinitely patient, always available, fluent in every subject. But without structured skills, it's a genius who doesn't know what to teach you.
+## The Question
+
+In 2025, AI agents gained the ability to manipulate the real world — through [Skills](https://github.com/anthropics/skills), [MCP servers](https://modelcontextprotocol.io/), and tool use. Claude can now run code, query databases, control browsers, and execute complex scientific workflows. ChatGPT can browse the web, write and run programs, analyze data. Gemini can see, hear, and interact with the physical world.
+
+**AI got its skill tree. But what about humans?**
+
+- A 35-year-old professional realizes their degree is becoming obsolete. How do they catch up?
+- A 10-year-old will graduate into a world where AI does most knowledge work. What should they learn?
+- A PhD student spends 5 years mastering a narrow field. Was that the right investment?
+- A first-generation college student has no mentors. Who teaches them the unwritten rules?
+
+These are not hypothetical questions. They are **the** questions of our time.
+
+## The Insight
+
+Here's what we know from the latest research:
+
+> **AI tutoring outperforms in-class active learning.** A 2025 randomized controlled trial published in *Nature Scientific Reports* found that students using an AI tutor learned significantly more in less time, with higher engagement and motivation, compared to traditional active learning classrooms.
 >
-> **Human Skill Tree** transforms any AI agent into a structured, science-backed learning companion — from kindergarten math to PhD research, from coding interviews to Chinese dinner etiquette.
+> — [Kestin et al. (2025), *Scientific Reports*](https://www.nature.com/articles/s41598-025-97652-6)
+
+> **Spaced repetition and active recall are the most effective learning techniques known to science.** A meta-analysis of 242 studies with 169,000+ participants confirmed that practice testing and distributed practice outperform all other methods — including re-reading, highlighting, and summarizing.
+>
+> — [Dunlosky et al. (2013), *Psychological Science in the Public Interest*](https://journals.sagepub.com/doi/abs/10.1177/1529100612453266); [Donoghue & Hattie (2021)](https://doi.org/10.3389/feduc.2021.657895)
+
+> **AI-powered intelligent tutoring systems show positive effects on K-12 learning**, with significant improvements in problem-solving, critical thinking, and logical reasoning abilities across 28 studies with 4,597 students.
+>
+> — [Systematic review, *npj Science of Learning* (2025)](https://www.nature.com/articles/s41539-025-00320-7)
+
+The science is clear: **AI + cognitive science = the most powerful learning combination in human history.** But there's a gap — AI agents have no built-in pedagogical structure. They know everything but teach nothing.
+
+**Human Skill Tree fills that gap.**
 
 ---
 
-## Why This Matters
+## What This Is
 
-Universities take 4 years to transfer knowledge that AI can deliver in weeks. Textbooks are static; AI adapts to you in real-time. But raw AI lacks the **pedagogical structure** that makes learning stick.
+A collection of **30+ ready-to-use AI agent skills** that transform ChatGPT, Claude, Gemini, Copilot, DeepSeek, or any compatible AI into a **structured, science-backed learning companion**.
 
-This project bridges the gap:
+Not a chatbot. Not a course platform. An **upgrade to how AI interacts with humans who want to learn**.
 
 | Traditional Learning | Raw AI Chat | 🌳 Human Skill Tree |
 |---|---|---|
 | One-size-fits-all | No structure | Adaptive + structured |
 | Passive (read/listen) | Q&A only | Active recall, spaced repetition, Socratic dialogue |
-| Single subject | Knows everything, teaches nothing | Curated learning paths by domain |
-| Limited to classroom | No curriculum | K-12 → University → Career → Life |
-| No social skills training | Generic advice | Culturally-aware situational coaching |
+| Single subject | Knows everything, teaches nothing | Curated paths from K-12 to career |
+| No social skills training | Generic advice | Culturally-aware scenario simulation |
+| Takes years | Instant but forgettable | Fast AND retainable |
 
 ---
 
-## Skill Tree Overview
+## 🔥 Learning AI in the Age of AI
+
+The most meta question of our time: **how do you learn about AI, using AI?**
+
+### Three Layers of AI Literacy
+
+```
+Layer 3: BUILD with AI     → Prompt engineering, fine-tuning, RAG, agents, MCP development
+Layer 2: WORK with AI      → Using ChatGPT/Claude/Gemini/Copilot/DeepSeek as daily tools
+Layer 1: THINK about AI    → What AI is, how it works, what it can't do, ethics, society
+```
+
+**Layer 1 — AI Fundamentals** (everyone needs this):
+- What is machine learning? What are LLMs? How do they actually work?
+- What can AI do well? What can't it do? Where does it hallucinate?
+- Ethics: bias, privacy, job displacement, deepfakes, alignment
+- Critical thinking: evaluating AI outputs, detecting errors, verifying claims
+
+**Layer 2 — AI as a Daily Tool** (professionals & students):
+- Prompt engineering: how to get better outputs from any AI
+- Using AI for writing, coding, research, analysis, creativity
+- AI-assisted learning: using AI as a Socratic tutor (this project!)
+- Workflow integration: AI + your existing tools and processes
+
+**Layer 3 — Building AI** (developers & researchers):
+- Machine learning fundamentals: supervised, unsupervised, reinforcement
+- Deep learning: neural networks, transformers, attention mechanisms
+- LLM application development: APIs, function calling, RAG, fine-tuning
+- Agent development: Skills, MCP servers, tool use, multi-agent systems
+- AI safety and alignment research
+
+> **The paradox**: The best way to learn AI is to use AI to learn about AI. Human Skill Tree provides the pedagogical structure that makes this self-referential loop actually work.
+
+---
+
+## 🌳 Skill Tree
 
 ```
 🌳 Human Skill Tree
@@ -58,14 +125,14 @@ This project bridges the gap:
 │
 ├── 🎓 Phase 2: University
 │   ├── University Guide (major selection, course planning, transfer)
-│   ├── STEM Tutor (CS, engineering, math, physics, chemistry, bio)
+│   ├── STEM (CS, AI/ML, engineering, math, physics, chemistry, bio)
 │   ├── Humanities & Social Sciences (law, politics, sociology, media)
 │   ├── Business & Economics (finance, accounting, marketing, econ)
 │   ├── Medical & Health (clinical, TCM, pharmacy, psychology)
 │   └── Arts & Design (fine arts, music, film, architecture)
 │
 ├── 🔬 Phase 3: Graduate & Research
-│   ├── Research Methodology (qual, quant, mixed methods, causal inference)
+│   ├── Research Methodology (qual, quant, mixed, causal inference)
 │   ├── Academic Writing (papers, thesis, grants, LaTeX)
 │   ├── Literature Review (systematic search, synthesis, gap analysis)
 │   └── Data Analysis & Statistics (R, Python, SPSS, Stata, spatial)
@@ -74,22 +141,22 @@ This project bridges the gap:
 │   ├── Career Navigator (exploration, planning, transition)
 │   ├── Interview Prep (behavioral, technical, case, whiteboard)
 │   ├── Civil Service 公务员 (行测, 申论, 面试, 公文写作)
-│   ├── Tech Career (system design, algorithms, PM, DevOps)
+│   ├── Tech Career (system design, algorithms, AI/ML, PM, DevOps)
 │   ├── Finance Career (CFA, modeling, valuation, risk)
 │   └── Consulting Career (case prep, MECE, slide writing)
 │
 ├── 🤝 Phase 5: Social Intelligence
-│   ├── Chinese Social Intelligence 人情世故 (面子, 关系, 饭局, 酒桌, 送礼)
-│   ├── Cross-Cultural Skills (Hofstede dimensions, business etiquette)
+│   ├── Chinese Social Intelligence 人情世故 (面子, 关系, 饭局, 酒桌)
+│   ├── Cross-Cultural Skills (Hofstede, business etiquette)
 │   ├── Emotional Intelligence (EQ, empathy, self-regulation)
-│   ├── Negotiation & Persuasion (BATNA, anchoring, Cialdini's 6)
-│   └── Communication Skills (assertive, difficult conversations, public speaking)
+│   ├── Negotiation & Persuasion (BATNA, Cialdini's 6 principles)
+│   └── Communication (assertive, difficult conversations, public speaking)
 │
 └── 🌱 Phase 6: Self-Development
     ├── Financial Literacy (budgeting, investing, tax, insurance)
-    ├── Critical Thinking (logic, fallacies, media literacy, decision-making)
+    ├── Critical Thinking (logic, fallacies, media literacy)
     ├── Health & Wellness (nutrition, exercise, sleep, mental health)
-    └── Creativity & Innovation (design thinking, lateral thinking, brainstorming)
+    └── Creativity & Innovation (design thinking, lateral thinking)
 ```
 
 > **800+ subjects** across **30+ skills**, covering **15 national education systems** and **6 international curricula**.
@@ -98,18 +165,18 @@ This project bridges the gap:
 
 ## Built on Learning Science
 
-Every skill in this tree follows principles from cognitive science — not just *what* to teach, but *how humans actually learn and remember*:
+Every skill applies cognitive science principles — not just *what* to teach, but *how human brains actually learn and remember*:
 
-| Principle | What It Does | How We Use It |
+| Principle | Mechanism | Evidence |
 |---|---|---|
-| 🔄 **Spaced Repetition** | Fights the forgetting curve | Skills schedule review at optimal intervals |
-| 🧪 **Active Recall** | Retrieval strengthens memory 10x vs re-reading | Skills quiz you, not lecture you |
-| 🎯 **Desirable Difficulties** | Short-term struggle = long-term retention | Skills push you just beyond comfort zone |
-| 🔀 **Interleaving** | Mixing topics improves discrimination | Skills alternate between related concepts |
-| 🖼️ **Dual Coding** | Words + visuals = stronger encoding | Skills combine text, diagrams, examples |
-| 🪞 **Socratic Method** | Questions > answers for deep understanding | Skills guide through questions, not lectures |
-| 🧩 **Chunking** | Group info into meaningful units | Skills break complex topics into digestible parts |
-| 📊 **Bloom's Taxonomy** | 6 levels: remember → create | Skills progress through cognitive complexity |
+| 🔄 **Spaced Repetition** | Fights the forgetting curve with optimal review intervals | Meta-analysis: 242 studies, 169K+ participants ([Donoghue & Hattie, 2021](https://doi.org/10.3389/feduc.2021.657895)) |
+| 🧪 **Active Recall** | Retrieval practice strengthens memory 10x vs re-reading | [Roediger & Butler (2011)](https://doi.org/10.1016/j.jml.2010.12.004), *Journal of Memory and Language* |
+| 🎯 **Desirable Difficulties** | Short-term struggle → long-term retention | [Bjork & Bjork (2011)](https://doi.org/10.1016/B978-0-12-385527-5.00009-4) |
+| 🔀 **Interleaving** | Mixing topics builds discrimination ability | [Pan et al. (2018)](https://doi.org/10.1037/xge0000546), *J. Exp. Psych: General* |
+| 🖼️ **Dual Coding** | Words + visuals = stronger encoding | [Paivio (1991)](https://doi.org/10.1037/0033-295X.98.2.148), *Psychological Review* |
+| 🪞 **Socratic Method** | Questions > answers for deep understanding | [Chi et al. (2001)](https://doi.org/10.1207/s15516709cog2505_1), *Cognitive Science* |
+| 🧩 **Chunking** | Group information into meaningful units | [Miller (1956)](https://doi.org/10.1037/h0043158), *Psychological Review* |
+| 📊 **Bloom's Taxonomy** | 6 cognitive levels: remember → create | [Anderson & Krathwohl (2001)](https://doi.org/10.1007/978-94-007-0753-5_305) |
 
 ---
 
@@ -119,7 +186,7 @@ Every skill in this tree follows principles from cognitive science — not just 
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/human-skill-tree.git
+git clone https://github.com/24kchengYe/human-skill-tree.git
 
 # Copy all skills to your agent
 cp -r human-skill-tree/skills/* ~/.claude/skills/
@@ -127,192 +194,130 @@ cp -r human-skill-tree/skills/* ~/.claude/skills/
 
 ### Install Individual Skills
 
-Pick only the skills you need:
-
 ```bash
-# Just the meta-skill for learning methodology
+# Meta-skill: learning methodology
 cp -r human-skill-tree/skills/00-learning-how-to-learn ~/.claude/skills/
 
 # K-12 math tutoring
 cp -r human-skill-tree/skills/01-k12-mathematics ~/.claude/skills/
 
-# Chinese social intelligence
+# Chinese social intelligence 人情世故
 cp -r human-skill-tree/skills/05-social-intelligence ~/.claude/skills/
 ```
 
-### Supported Tools
+### Supported AI Tools
 
 | Tool | Skill Directory | Status |
 |---|---|---|
-| **Claude Code** | `~/.claude/skills/` | ✅ Primary |
-| **Cursor** | `~/.cursor/skills/` | ✅ Supported |
-| **Codex** | `~/.codex/skills/` | ✅ Supported |
-| **Gemini CLI** | `~/.gemini/skills/` | ✅ Supported |
+| [**Claude Code**](https://claude.ai/code) | `~/.claude/skills/` | ✅ Primary |
+| [**Cursor**](https://cursor.com) | `~/.cursor/skills/` | ✅ Supported |
+| [**OpenAI Codex CLI**](https://github.com/openai/codex) | `~/.codex/skills/` | ✅ Supported |
+| [**Gemini CLI**](https://github.com/google-gemini/gemini-cli) | `~/.gemini/skills/` | ✅ Supported |
+| [**GitHub Copilot**](https://github.com/features/copilot) | Custom config | 🔜 Planned |
+| [**DeepSeek**](https://github.com/deepseek-ai) | Custom config | 🔜 Planned |
 
 ---
 
-## Existing Ecosystem
+## Ecosystem
 
-We don't reinvent the wheel. Here are battle-tested tools that complement Human Skill Tree:
+We build on top of existing tools. Here are the best complementary projects:
 
-### 🏆 Top Picks
+### MCP Servers
 
-| Tool | Type | What It Does | Stars/Installs |
-|---|---|---|---|
-| [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | MCP | AI personalized learning assistant from HKU | ⭐ 9,000+ |
-| [**Anki MCP**](https://github.com/ankimcp/anki-mcp-server) | MCP | Spaced repetition flashcard integration | ⭐ 154 |
-| [**Canvas LMS MCP**](https://github.com/DMontgomery40/mcp-canvas-lms) | MCP | 54 tools for Canvas LMS management | ⭐ Moderate |
-| [**OpenEdu MCP**](https://github.com/Cicatriiz/openedu-mcp) | MCP | K-12 & college curriculum planning | New |
-| [**Math MCP**](https://github.com/clouatre-labs/math-mcp-learning-server) | MCP | Math tutor with step-by-step explanations | New |
-| [**Wolfram Alpha MCP**](https://github.com/cnosuke/mcp-wolfram-alpha) | MCP | Computational knowledge engine | Multiple |
-
-### 📦 Agent Skills
-
-| Skill | Install | What It Does |
+| Server | What It Does | Stars |
 |---|---|---|
-| [education-tutor](https://skills.sh/eddiebe147/claude-settings/education-tutor) | `npx skills add eddiebe147/claude-settings@education-tutor -g -y` | K-12 tutoring + exam prep + learning difficulty support |
-| [learn-faster-kit](https://github.com/hluaguo/learn-faster-kit) | `npx skills install hluaguo/learn-faster-kit` | AI learning coach with spaced repetition |
-| [tutor-skills](https://github.com/RoundTable02/tutor-skills) | `npx skills install RoundTable02/tutor-skills` | Turn PDFs into interactive Obsidian study vaults |
-| [curriculum-design](https://skills.sh/pauljbernard/content/curriculum-design) | `npx skills add pauljbernard/content@curriculum-design -g -y` | Bloom's taxonomy curriculum builder |
-| [academic-research-writer](https://skills.sh/endigo/claude-skills/academic-research-writer) | `npx skills add endigo/claude-skills@academic-research-writer -g -y` | Academic paper writing assistant |
-| [research-proposal](https://skills.sh/luwill/research-skills/research-proposal) | `npx skills add luwill/research-skills@research-proposal -g -y` | Grant & research proposal writing |
+| [**DeepTutor**](https://github.com/HKUDS/DeepTutor) | AI personalized learning assistant (HKU) | ⭐ 9,000+ |
+| [**Anki MCP**](https://github.com/ankimcp/anki-mcp-server) | Spaced repetition flashcard integration | ⭐ 154 |
+| [**Canvas LMS MCP**](https://github.com/DMontgomery40/mcp-canvas-lms) | 54 tools for learning management | Moderate |
+| [**Wolfram Alpha MCP**](https://github.com/cnosuke/mcp-wolfram-alpha) | Computational knowledge engine | Multiple |
+| [**MandarinMCP**](https://github.com/w41ch0ng/MandarinMCP) | HSK Chinese vocabulary + spaced repetition | New |
 
-### 📚 Flashcard & Memory Tools
+### Agent Skills
 
-| Tool | Type | What It Does |
-|---|---|---|
-| [Rember MCP](https://mcpservers.org/servers/rember/rember-mcp) | MCP | "Help me remember this" → spaced repetition cards |
-| [Mochi MCP](https://lobehub.com/mcp/louis030195-mochi-mcp) | MCP | Full deck management with Markdown |
-| [MandarinMCP](https://github.com/w41ch0ng/MandarinMCP) | MCP | HSK 1-6 Chinese vocabulary with spaced repetition |
-| [EchoDecks](https://skills.sh) | Skill | Flashcard management + podcast generation |
+| Skill | Install |
+|---|---|
+| [education-tutor](https://skills.sh/eddiebe147/claude-settings/education-tutor) | `npx skills add eddiebe147/claude-settings@education-tutor -g -y` |
+| [learn-faster-kit](https://github.com/hluaguo/learn-faster-kit) | `npx skills install hluaguo/learn-faster-kit` |
+| [academic-research-writer](https://skills.sh/endigo/claude-skills/academic-research-writer) | `npx skills add endigo/claude-skills@academic-research-writer -g -y` |
 
-> 💡 See [docs/landscape.md](docs/landscape.md) for the full ecosystem survey of 50+ tools.
+> See [docs/landscape.md](docs/landscape.md) for the full ecosystem survey (50+ tools).
 
 ---
 
 ## Education Systems Covered
 
-Human Skill Tree understands **15 national education systems** and **6 international curricula**:
-
-### 🌍 National Systems
+### 🌍 15 National Systems
 
 | Region | Countries |
 |---|---|
-| **East Asia** | 🇨🇳 China (高考 3+1+2), 🇯🇵 Japan (共通テスト), 🇰🇷 Korea (수능 CSAT), 🇸🇬 Singapore (PSLE/O/A-Level) |
-| **Europe** | 🇬🇧 UK (GCSE/A-Level), 🇩🇪 Germany (Abitur + Dual System), 🇫🇷 France (Bac + Philo), 🇳🇱 Netherlands (VMBO/HAVO/VWO), 🇨🇭 Switzerland (Matura), 🇫🇮 Finland (no tests until 19) |
-| **Americas** | 🇺🇸 USA (SAT/AP), 🇨🇦 Canada (Provincial + CEGEP) |
-| **South Asia** | 🇮🇳 India (CBSE/ICSE + JEE/NEET) |
-| **Middle East** | 🇮🇱 Israel (Bagrut + Tanakh) |
-| **Oceania** | 🇦🇺 Australia (ATAR + NAPLAN) |
+| **East Asia** | 🇨🇳 China (高考), 🇯🇵 Japan (共通テスト), 🇰🇷 Korea (수능), 🇸🇬 Singapore |
+| **Europe** | 🇬🇧 UK (GCSE/A-Level), 🇩🇪 Germany (Abitur), 🇫🇷 France (Bac), 🇳🇱 🇨🇭 🇫🇮 |
+| **Americas** | 🇺🇸 USA (SAT/AP), 🇨🇦 Canada |
+| **South Asia** | 🇮🇳 India (JEE/NEET) |
+| **Middle East** | 🇮🇱 Israel (Bagrut) |
+| **Oceania** | 🇦🇺 Australia (ATAR) |
 
-### 🌐 International Curricula
+### 🌐 6 International Curricula
 
-IB (Diploma + MYP + PYP) · Cambridge IGCSE/A-Level · Montessori · Waldorf/Steiner · Reggio Emilia · Classical Trivium
+IB · Cambridge IGCSE/A-Level · Montessori · Waldorf/Steiner · Reggio Emilia · Classical Trivium
 
 ---
 
-## Skill Development Roadmap
+## Roadmap
 
-### ✅ Phase 1 — Foundation (Now)
-
-- [x] Project structure and documentation
-- [x] Learning How to Learn (meta-skill)
-- [x] K-12 Mathematics
-- [x] Social Intelligence (中国人情世故)
-- [x] Ecosystem survey
-
-### 🔜 Phase 2 — Core Skills
-
-- [ ] K-12 Sciences, Languages, Humanities
-- [ ] University STEM Tutor
-- [ ] Academic Writing
-- [ ] Career Navigator
-- [ ] Exam Systems (Gaokao, SAT, A-Level, IB)
-
-### 🔮 Phase 3 — Advanced
-
-- [ ] Cross-Cultural Communication
-- [ ] Civil Service (公务员) Prep
-- [ ] Finance & Consulting Career Prep
-- [ ] Medical & Health Sciences Tutor
-- [ ] Emotional Intelligence Trainer
-- [ ] MCP server integrations
-
-### 🌟 Phase 4 — Community
-
-- [ ] Multi-language skill translations (日本語, 한국어, Español, Français)
-- [ ] Community-contributed career skills
-- [ ] Regional education system plugins
-- [ ] Interactive skill tree visualization (web)
+- [x] **Phase 1**: Project structure, 3 flagship skills, ecosystem survey
+- [ ] **Phase 2**: K-12 full coverage, university STEM tutor, exam systems
+- [ ] **Phase 3**: Career skills, cross-cultural, EQ, MCP integrations
+- [ ] **Phase 4**: Multi-language (日本語, 한국어, Español, Français), web visualization
 
 ---
 
 ## Contributing
 
-We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines. We welcome:
 
-### Ways to Contribute
-
-- 🆕 **Add a new skill** — Pick an uncovered subject or career path
-- 🌍 **Translate** — Help us reach more learners worldwide
-- 🐛 **Fix & improve** — Better examples, clearer explanations, more practice problems
-- 📊 **Research** — Share learning science insights or education system knowledge
-- 🔗 **Integrate** — Connect with MCP servers, flashcard tools, LMS platforms
-
-### Skill Structure
-
-Each skill follows a standard format:
-
-```
-skills/
-└── XX-skill-name/
-    └── SKILL.md          # Skill definition (required)
-```
-
-See [docs/skill-development-guide.md](docs/skill-development-guide.md) for the full specification.
+- 🆕 **New skills** — Pick any uncovered subject
+- 🌍 **Translations** — Help learners worldwide
+- 📊 **Research** — Learning science insights with citations
+- 🔗 **Integrations** — MCP servers, flashcard tools, LMS platforms
 
 ---
 
 ## Philosophy
 
-### 🎮 Why "Skill Tree"?
+### Why "Skill Tree"?
 
-In RPGs, a skill tree is a branching structure where you unlock abilities by investing points. Real life works the same way:
+In RPGs, a skill tree is a branching structure where you unlock abilities by investing points. Real life works the same way — prerequisites matter, multiple paths exist, specialization is valid, and you can always respec.
 
-- **Prerequisites matter**: You need algebra before calculus, empathy before negotiation
-- **Multiple paths**: Not everyone needs the same skills
-- **Specialization is valid**: Deep expertise in one branch > shallow knowledge of all
-- **You can always respec**: Career changes, new interests, lifelong learning
+### Why Social Intelligence?
 
-### 🧠 Why Learning Science?
+No other AI skill project covers **人情世故** — the art of navigating human relationships. Yet this is arguably the most important skill set for success in life. AI can be a safe space to practice these skills through scenario simulation.
 
-Most AI tutoring is just "ask a question, get an answer." This produces the **illusion of learning** — you feel like you understand, but you'll forget within days.
+### Why Learning Science?
 
-Human Skill Tree skills are designed around how memory actually works:
-
-1. **Test, don't tell** — Skills ask you questions before giving answers
-2. **Space it out** — Skills remind you to revisit concepts at optimal intervals
-3. **Make it hard** — Skills introduce desirable difficulties that strengthen encoding
-4. **Connect it** — Skills link new knowledge to what you already know
-5. **Apply it** — Skills provide real-world scenarios, not just theory
-
-### 🤝 Why Social Intelligence?
-
-No other AI skill project covers **人情世故** (the art of navigating human relationships). Yet this is arguably the most important skill set for success in life:
-
-- How to read a room
-- When to speak and when to listen
-- How gift-giving works across cultures
-- How to survive office politics
-- How to maintain relationships without burning bridges
-
-We believe AI can be a safe space to practice these skills through scenario simulation.
+Most AI tutoring is "ask a question, get an answer." This creates the **illusion of learning** — you feel like you understand, but forget within days. Our skills are designed around how memory actually works: test before tell, space it out, make it hard, connect it, apply it.
 
 ---
 
-## Star History
+## Support This Project
 
-If this project helps you learn anything, please ⭐ star the repo — it helps others discover it.
+If Human Skill Tree helps you learn anything, consider:
+
+- ⭐ **Star** this repo — helps others discover it
+- 🍕 **[Sponsor](https://github.com/sponsors/24kchengYe)** — fund continued development
+- 🔀 **Fork & contribute** — help build the tree
+
+---
+
+## References
+
+1. Kestin, G. et al. (2025). "AI tutoring outperforms in-class active learning." *Scientific Reports*. [Nature](https://www.nature.com/articles/s41598-025-97652-6)
+2. Dunlosky, J. et al. (2013). "Improving Students' Learning With Effective Learning Techniques." *Psychological Science in the Public Interest*, 14(1), 4-58.
+3. Donoghue, G.M. & Hattie, J.A.C. (2021). "A Meta-Analysis of Ten Learning Techniques." *Frontiers in Education*.
+4. Pan, S.C. & Rickard, T.C. (2018). "Transfer of test-enhanced learning." *J. Experimental Psychology: General*, 147(11), 1641-1664.
+5. Brown, P.C., Roediger, H.L., & McDaniel, M.A. (2014). *Make It Stick: The Science of Successful Learning*. Harvard University Press.
+6. npj Science of Learning (2025). "A systematic review of AI-driven intelligent tutoring systems in K-12 education." [Nature](https://www.nature.com/articles/s41539-025-00320-7)
+7. Bjork, R.A. & Bjork, E.L. (2011). "Making Things Hard on Yourself, But in a Good Way."
 
 ---
 
@@ -324,8 +329,160 @@ If this project helps you learn anything, please ⭐ star the repo — it helps 
 
 <div align="center">
 
-**Built with 🧠 by humans, for humans, powered by AI.**
+**Built by humans, for humans, powered by AI.**
 
 *"The only skill tree that matters is the one you actually climb."*
+
+</div>
+
+---
+
+---
+
+<a id="关于这个项目"></a>
+
+<div align="center">
+
+# 🌳 人类技能树
+
+### AI 时代的人类学习操作系统 · 人类养成记
+
+*AI 通过 Skill 和 MCP 获得了操纵现实的能力。人类呢？*
+
+</div>
+
+---
+
+## 这个时代的问题
+
+2025 年，AI 智能体获得了操控现实世界的能力——通过 Skill、MCP 和工具调用。Claude 能运行代码、查询数据库、控制浏览器。ChatGPT 能联网搜索、写代码、分析数据。Gemini 能看、能听、能与物理世界交互。
+
+**AI 有了自己的技能树。人类呢？**
+
+- 一个 35 岁的职场人发现自己的学位正在过时。怎么赶上？
+- 一个 2026 年出生的孩子，成年时 AI 已无处不在。该学什么？
+- 一个博士生花 5 年钻研一个窄领域。这笔投资对吗？
+- 一个农村来的大学生没有人脉、没有导师。谁来教他那些不成文的规则？
+
+这些不是假设性的问题。这是**我们这个时代最核心的问题**。
+
+## 洞察
+
+最新研究告诉我们：
+
+> **AI 辅导效果超过课堂主动学习。** 2025 年发表在 *Nature Scientific Reports* 上的随机对照试验发现：使用 AI 导师的学生在更短时间内学到了更多，参与度和动力也更高。
+>
+> — [Kestin et al. (2025)](https://www.nature.com/articles/s41598-025-97652-6)
+
+> **间隔重复和主动回忆是科学已知最有效的学习方法。** 一项涵盖 242 项研究、169,000+ 参与者的 Meta 分析证实：练习测试和分散练习的效果超过所有其他方法。
+>
+> — [Dunlosky et al. (2013)](https://journals.sagepub.com/doi/abs/10.1177/1529100612453266); [Donoghue & Hattie (2021)](https://doi.org/10.3389/feduc.2021.657895)
+
+科学结论很清晰：**AI + 认知科学 = 人类历史上最强大的学习组合。** 但有一个缺口——AI 智能体没有内置的教学结构。它们什么都知道，但什么都不会教。
+
+**人类技能树填补这个缺口。**
+
+---
+
+## 🔥 在 AI 时代学习 AI
+
+最 meta 的问题：**如何用 AI 学习 AI？**
+
+```
+第3层: 用 AI 构建     → 提示词工程、微调、RAG、Agent 开发、MCP 开发
+第2层: 用 AI 工作     → 用 ChatGPT/Claude/Gemini/Copilot/DeepSeek 作为日常工具
+第1层: 理解 AI        → AI 是什么、怎么工作、不能做什么、伦理、社会影响
+```
+
+**悖论**：学 AI 最好的方式就是用 AI 学 AI。人类技能树提供了让这个自指循环真正有效的教学结构。
+
+---
+
+## 🌳 技能树总览
+
+```
+🌳 人类技能树
+│
+├── 🧠 第0层：学会学习（元技能）
+│   └── 间隔重复、主动回忆、费曼学习法、记忆宫殿、思维导图
+│
+├── 📚 第1层：K-12 基础教育
+│   ├── 数学 · 自然科学 · 语言（50+语种）· 人文社科
+│   └── 考试体系（高考/SAT/AP/A-Level/IB/수능/JEE…）
+│
+├── 🎓 第2层：本科专业
+│   ├── 理工科（CS/AI/工程/数理化生）· 人文社科 · 商科经济
+│   ├── 医学健康 · 艺术设计 · 选专业/转专业指南
+│   └── 🔥 AI 与机器学习（从入门到 Agent 开发）
+│
+├── 🔬 第3层：研究生与科研
+│   └── 研究方法 · 学术写作 · 文献综述 · 数据分析
+│
+├── 💼 第4层：职业技能
+│   ├── 职业导航 · 面试准备 · 科技/金融/咨询行业
+│   └── 🇨🇳 公务员（行测/申论/面试/公文写作）
+│
+├── 🤝 第5层：社交智慧
+│   ├── 🇨🇳 中国人情世故（面子/关系/饭局/酒桌/送礼）
+│   ├── 跨文化沟通 · 情商 · 谈判与说服
+│   └── 沟通技巧（果敢表达/困难对话/公共演讲）
+│
+└── 🌱 第6层：自我发展
+    └── 财商 · 批判性思维 · 健康管理 · 创造力
+```
+
+> 覆盖 **800+ 学科**，**30+ 技能**，**15 个国家教育体系**，**6 种国际课程**。
+
+---
+
+## 安装
+
+```bash
+# 克隆
+git clone https://github.com/24kchengYe/human-skill-tree.git
+
+# 全部安装
+cp -r human-skill-tree/skills/* ~/.claude/skills/
+
+# 或按需安装
+cp -r human-skill-tree/skills/00-learning-how-to-learn ~/.claude/skills/   # 学会学习
+cp -r human-skill-tree/skills/01-k12-mathematics ~/.claude/skills/         # K-12 数学
+cp -r human-skill-tree/skills/05-social-intelligence ~/.claude/skills/     # 人情世故
+```
+
+兼容：**Claude Code** · **Cursor** · **OpenAI Codex** · **Gemini CLI**
+
+---
+
+## 参与贡献
+
+详见 [CONTRIBUTING.md](CONTRIBUTING.md)
+
+- 🆕 **添加新技能** — 选一个未覆盖的学科
+- 🌍 **翻译** — 日本語、한국어、Español、Français…
+- 📊 **研究** — 分享学习科学论文与洞察
+- 🔗 **集成** — 对接 MCP、闪卡、LMS
+
+---
+
+## 支持项目
+
+- ⭐ **Star** 这个仓库 — 让更多人发现它
+- 🍕 **[赞助](https://github.com/sponsors/24kchengYe)** — 支持持续开发
+- 🔀 **Fork & 贡献** — 一起建这棵树
+
+---
+
+## 许可证
+
+[MIT](LICENSE) — 自由使用、修改、分享。知识应当自由。
+
+---
+
+<div align="center">
+
+**由人类构建，为人类服务，AI 驱动。**
+
+*"唯一重要的技能树，是你真正去攀爬的那棵。"*
 
 </div>
