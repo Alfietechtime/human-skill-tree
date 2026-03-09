@@ -64,6 +64,27 @@ A collection of **33 ready-to-use AI agent skills** that transform ChatGPT, Clau
 
 It's an **upgrade to how AI interacts with humans who want to learn**.
 
+### 🎬 Demo
+
+<table>
+<tr>
+<td align="center"><b>Landing Page</b></td>
+<td align="center"><b>Skill Tree</b></td>
+</tr>
+<tr>
+<td><img src="docs/demos/landing.gif" width="400" alt="Landing page demo"/></td>
+<td><img src="docs/demos/skill-tree.gif" width="400" alt="Skill tree visualization"/></td>
+</tr>
+<tr>
+<td align="center"><b>Skill Detail</b></td>
+<td align="center"><b>AI Chat Learning</b></td>
+</tr>
+<tr>
+<td><img src="docs/demos/skill-detail.gif" width="400" alt="Skill detail page"/></td>
+<td><img src="docs/demos/chat.gif" width="400" alt="AI chat learning"/></td>
+</tr>
+</table>
+
 ### 💬 See the Difference
 
 <table>
@@ -460,6 +481,29 @@ If Human Skill Tree helps you learn anything, consider:
 科学结论很清晰：**AI + 认知科学 = 人类历史上最强大的学习组合。** 问题在于，AI 智能体没有内置的教学结构。它们什么都知道，但什么都不会教。
 
 **人类技能树填补这个缺口。**
+
+---
+
+### 🎬 演示
+
+<table>
+<tr>
+<td align="center"><b>首页</b></td>
+<td align="center"><b>技能树</b></td>
+</tr>
+<tr>
+<td><img src="docs/demos/landing.gif" width="400" alt="首页演示"/></td>
+<td><img src="docs/demos/skill-tree.gif" width="400" alt="技能树可视化"/></td>
+</tr>
+<tr>
+<td align="center"><b>技能详情</b></td>
+<td align="center"><b>AI 对话学习</b></td>
+</tr>
+<tr>
+<td><img src="docs/demos/skill-detail.gif" width="400" alt="技能详情页"/></td>
+<td><img src="docs/demos/chat.gif" width="400" alt="AI 对话学习"/></td>
+</tr>
+</table>
 
 ---
 
