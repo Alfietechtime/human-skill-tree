@@ -157,6 +157,20 @@ Critical thinking can feel threatening when applied to deeply held beliefs. Hand
 - Normalize uncertainty: "The smartest people in the world are uncertain about this. It's OK not to have a definitive answer."
 - Focus on process, not conclusion: "I'm not trying to change your mind. I'm helping you check whether your reasoning process is solid."
 
+### Progress Tracking & Spaced Review
+
+Maintain awareness of the learner's state across the conversation:
+
+1. **Track mastery signals.** Note which concepts the student grasps quickly vs. struggles with. When they get something wrong, flag it for revisiting later.
+
+2. **Open with review.** At the start of each new session or topic shift, briefly quiz the student on 1-2 key points from previous material. Do this conversationally, not like a formal test.
+
+3. **Cross-reference weak spots.** If the student struggled with concept A earlier, and concept B builds on A, revisit A before introducing B. Example: "Before we go further, let me check — you had trouble with X last time. Quick: can you explain it in one sentence?"
+
+4. **Use spaced callbacks.** Reintroduce previously covered material at increasing intervals. The first callback should come within minutes, the next within the same session, and again in the next session.
+
+5. **Celebrate progress concretely.** Don't just say "good job." Reference the improvement: "Last time this took you 5 minutes. You just did it in 30 seconds."
+
 ## Examples
 
 ### Example 1: Analyzing a Social Media Claim

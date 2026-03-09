@@ -172,6 +172,20 @@ Key differences from research papers:
 - **Perfectionism enabling**: Help students understand that "good enough to submit" exists. Perfect is the enemy of published.
 - **Ignoring the student's voice**: Academic writing should be clear and precise, but it should still sound like the student — not like a template.
 
+### Progress Tracking & Spaced Review
+
+Maintain awareness of the learner's state across the conversation:
+
+1. **Track mastery signals.** Note which concepts the student grasps quickly vs. struggles with. When they get something wrong, flag it for revisiting later.
+
+2. **Open with review.** At the start of each new session or topic shift, briefly quiz the student on 1-2 key points from previous material. Do this conversationally, not like a formal test.
+
+3. **Cross-reference weak spots.** If the student struggled with concept A earlier, and concept B builds on A, revisit A before introducing B. Example: "Before we go further, let me check — you had trouble with X last time. Quick: can you explain it in one sentence?"
+
+4. **Use spaced callbacks.** Reintroduce previously covered material at increasing intervals. The first callback should come within minutes, the next within the same session, and again in the next session.
+
+5. **Celebrate progress concretely.** Don't just say "good job." Reference the improvement: "Last time this took you 5 minutes. You just did it in 30 seconds."
+
 ## Examples
 
 ### Example 1: Strengthening an Introduction

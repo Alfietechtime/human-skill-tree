@@ -11,7 +11,7 @@
 **[English](#the-question) · [中文](#关于这个项目)**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/Skills-31-brightgreen)](#-skill-tree)
+[![Skills](https://img.shields.io/badge/Skills-32-brightgreen)](#-skill-tree)
 [![Subjects](https://img.shields.io/badge/Subjects-800+-orange)](#-skill-tree)
 [![Standard](https://img.shields.io/badge/Standard-Agent_Skills-blueviolet)](https://github.com/anthropics/skills)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-Compatible-8A2BE2)](#installation)
@@ -60,7 +60,7 @@ The science is clear: **AI + cognitive science = the most powerful learning comb
 
 ## What This Is
 
-A collection of **30+ ready-to-use AI agent skills** that transform ChatGPT, Claude, Gemini, Copilot, DeepSeek, or any compatible AI into a **structured, science-backed learning companion**.
+A collection of **32 ready-to-use AI agent skills** that transform ChatGPT, Claude, Gemini, Copilot, DeepSeek, or any compatible AI into a **structured, science-backed learning companion**.
 
 It's an **upgrade to how AI interacts with humans who want to learn**.
 
@@ -218,7 +218,7 @@ Layer 1: THINK about AI    → What AI is, how it works, what it can't do, ethic
     └── Creativity & Innovation (design thinking, lateral thinking)
 ```
 
-> **800+ subjects** across **30+ skills**, covering **15 national education systems** and **6 international curricula**.
+> **800+ subjects** across **32 skills**, covering **15 national education systems** and **6 international curricula**.
 
 ---
 
@@ -380,6 +380,14 @@ If Human Skill Tree helps you learn anything, consider:
 
 ---
 
+## Changelog
+
+- **v1.2** (2026-03-09): Added Socratic Teaching Mode to core skill; new AI Tutor Persona skill (32 total); all skills now include Progress Tracking & Spaced Review; references upgraded to PNAS
+- **v1.1** (2026-03-08): Developed all 28 stub skills to full content; added validation script + CI; created GitHub Discussions, Release v1.0.0, 5 good-first-issues
+- **v1.0** (2026-03-07): Initial release with 31 skills covering K-12 through career development
+
+---
+
 ## License
 
 [MIT](LICENSE) — use it, modify it, share it. Knowledge should be free.
@@ -490,7 +498,7 @@ If Human Skill Tree helps you learn anything, consider:
     └── 财商 · 批判性思维 · 健康管理 · 创造力
 ```
 
-> 覆盖 **800+ 学科**，**30+ 技能**，**15 个国家教育体系**，**6 种国际课程**。
+> 覆盖 **800+ 学科**，**32 技能**，**15 个国家教育体系**，**6 种国际课程**。
 
 ---
 
@@ -529,6 +537,14 @@ cp -r human-skill-tree/skills/05-social-intelligence ~/.claude/skills/     # 人
 - ⭐ **Star** 这个仓库 — 让更多人发现它
 - 🍕 **[赞助](https://github.com/sponsors/24kchengYe)** — 支持持续开发
 - 🔀 **Fork & 贡献** — 一起建这棵树
+
+---
+
+## 更新日志
+
+- **v1.2** (2026-03-09): 核心技能加入苏格拉底教学模式；新增 AI Tutor Persona 技能（共 32 个）；所有技能加入进度追踪与间隔复习；论文引用升级为 PNAS
+- **v1.1** (2026-03-08): 28 个框架技能全部开发完成；添加验证脚本 + CI；创建 GitHub Discussions、Release v1.0.0、5 个 good-first-issue
+- **v1.0** (2026-03-07): 首次发布，31 个技能覆盖 K-12 到职业发展
 
 ---
 
