@@ -11,7 +11,7 @@
 **[English](#the-question) · [中文](#关于这个项目)**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Skills](https://img.shields.io/badge/Skills-32-brightgreen)](#-skill-tree)
+[![Skills](https://img.shields.io/badge/Skills-33-brightgreen)](#-skill-tree)
 [![Subjects](https://img.shields.io/badge/Subjects-800+-orange)](#-skill-tree)
 [![Standard](https://img.shields.io/badge/Standard-Agent_Skills-blueviolet)](https://github.com/anthropics/skills)
 [![Claude Code](https://img.shields.io/badge/Claude_Code-Compatible-8A2BE2)](#installation)
@@ -60,7 +60,7 @@ The science is clear: **AI + cognitive science = the most powerful learning comb
 
 ## What This Is
 
-A collection of **32 ready-to-use AI agent skills** that transform ChatGPT, Claude, Gemini, Copilot, DeepSeek, or any compatible AI into a **structured, science-backed learning companion**.
+A collection of **33 ready-to-use AI agent skills** that transform ChatGPT, Claude, Gemini, Copilot, DeepSeek, or any compatible AI into a **structured, science-backed learning companion**.
 
 It's an **upgrade to how AI interacts with humans who want to learn**.
 
@@ -218,7 +218,7 @@ Layer 1: THINK about AI    → What AI is, how it works, what it can't do, ethic
     └── Creativity & Innovation (design thinking, lateral thinking)
 ```
 
-> **800+ subjects** across **32 skills**, covering **15 national education systems** and **6 international curricula**.
+> **800+ subjects** across **33 skills**, covering **15 national education systems** and **6 international curricula**.
 
 ---
 
@@ -301,6 +301,17 @@ We build on top of existing tools. Here are the best complementary projects:
 
 > See [docs/landscape.md](docs/landscape.md) for the full ecosystem survey (50+ tools).
 
+### 🌐 Interactive Web App
+
+Try the skills in your browser with an interactive learning experience:
+
+**[Human Skill Tree App](https://github.com/24kchengYe/human-skill-tree-app)** — Next.js web app with:
+- Interactive skill tree visualization
+- AI chat learning with 8 model options
+- Knowledge point tracking & spaced repetition review
+- Multi-language UI (English, 中文, 日本語)
+- Learning progress & mastery tracking
+
 ---
 
 ## Education Systems Covered
@@ -327,7 +338,7 @@ IB · Cambridge IGCSE/A-Level · Montessori · Waldorf/Steiner · Reggio Emilia 
 - [x] **Phase 1**: Project structure, 3 flagship skills, ecosystem survey
 - [ ] **Phase 2**: K-12 full coverage, university STEM tutor, exam systems
 - [ ] **Phase 3**: Career skills, cross-cultural, EQ, MCP integrations
-- [ ] **Phase 4**: Multi-language (日本語, 한국어, Español, Français), web visualization
+- [x] **Phase 4**: Multi-language (日本語), web visualization app ([human-skill-tree-app](https://github.com/24kchengYe/human-skill-tree-app))
 
 ---
 
@@ -382,6 +393,7 @@ If Human Skill Tree helps you learn anything, consider:
 
 ## Changelog
 
+- **v1.3** (2026-03-09): Updated to 33 skills; linked interactive web app with learning progress tracking, spaced repetition, and multi-language support
 - **v1.2** (2026-03-09): Added Socratic Teaching Mode to core skill; new AI Tutor Persona skill (32 total); all skills now include Progress Tracking & Spaced Review
 - **v1.1** (2026-03-08): Developed all 28 stub skills to full content; added validation script + CI; created GitHub Discussions, Release v1.0.0, 5 good-first-issues
 - **v1.0** (2026-03-07): Initial release with 31 skills covering K-12 through career development
@@ -498,7 +510,7 @@ If Human Skill Tree helps you learn anything, consider:
     └── 财商 · 批判性思维 · 健康管理 · 创造力
 ```
 
-> 覆盖 **800+ 学科**，**32 技能**，**15 个国家教育体系**，**6 种国际课程**。
+> 覆盖 **800+ 学科**，**33 技能**，**15 个国家教育体系**，**6 种国际课程**。
 
 ---
 
@@ -518,6 +530,10 @@ cp -r human-skill-tree/skills/05-social-intelligence ~/.claude/skills/     # 人
 ```
 
 兼容：**Claude Code** · **Cursor** · **OpenAI Codex** · **Gemini CLI**
+
+### 🌐 互动 Web 应用
+
+在浏览器中体验技能树：**[Human Skill Tree App](https://github.com/24kchengYe/human-skill-tree-app)** — 交互式可视化 + AI 对话学习 + 知识点追踪 + 间隔复习 + 三语界面
 
 ---
 
@@ -542,6 +558,7 @@ cp -r human-skill-tree/skills/05-social-intelligence ~/.claude/skills/     # 人
 
 ## 更新日志
 
+- **v1.3** (2026-03-09): 更新至 33 个技能；关联交互式 Web 应用（学习进度追踪、间隔复习、三语支持）
 - **v1.2** (2026-03-09): 核心技能加入苏格拉底教学模式；新增 AI Tutor Persona 技能（共 32 个）；所有技能加入进度追踪与间隔复习
 - **v1.1** (2026-03-08): 28 个框架技能全部开发完成；添加验证脚本 + CI；创建 GitHub Discussions、Release v1.0.0、5 个 good-first-issue
 - **v1.0** (2026-03-07): 首次发布，31 个技能覆盖 K-12 到职业发展
