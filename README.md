@@ -327,11 +327,13 @@ We build on top of existing tools. Here are the best complementary projects:
 Try the skills in your browser with an interactive learning experience:
 
 **[Human Skill Tree App](https://github.com/24kchengYe/human-skill-tree-app)** — Next.js web app with:
-- Interactive skill tree visualization
-- AI chat learning with 8 model options
+- **Socratic Tutor System** — 6 AI tutor characters (Aria, Marcus, Lin, Euler, Feynman, Curie) with enforced Socratic teaching
+- **Cross-Tutor Memory** — Tutors share context: what was taught, where you got stuck, attitude evolution
+- **Social World** — Auto-generated group chat (tutors discuss you) + learning diary
+- **Story Backgrounds** — 5 immersive settings (Academy, Starship, Workshop, Garden, Café)
+- Interactive skill tree visualization with React Flow
 - Knowledge point tracking & spaced repetition review
 - Multi-language UI (English, 中文, 日本語)
-- Learning progress & mastery tracking
 
 ---
 
@@ -414,6 +416,7 @@ If Human Skill Tree helps you learn anything, consider:
 
 ## Changelog
 
+- **v1.4** (2026-03-10): Web App upgraded with Socratic Tutor System — 6 AI tutor characters, cross-tutor memory, social world (group chat + diary), 5 story backgrounds, 7-layer system prompt
 - **v1.3** (2026-03-09): Updated to 33 skills; linked interactive web app with learning progress tracking, spaced repetition, and multi-language support
 - **v1.2** (2026-03-09): Added Socratic Teaching Mode to core skill; new AI Tutor Persona skill (32 total); all skills now include Progress Tracking & Spaced Review
 - **v1.1** (2026-03-08): Developed all 28 stub skills to full content; added validation script + CI; created GitHub Discussions, Release v1.0.0, 5 good-first-issues
@@ -577,7 +580,7 @@ cp -r human-skill-tree/skills/05-social-intelligence ~/.claude/skills/     # 人
 
 ### 🌐 互动 Web 应用
 
-在浏览器中体验技能树：**[Human Skill Tree App](https://github.com/24kchengYe/human-skill-tree-app)** — 交互式可视化 + AI 对话学习 + 知识点追踪 + 间隔复习 + 三语界面
+在浏览器中体验技能树：**[Human Skill Tree App](https://github.com/24kchengYe/human-skill-tree-app)** — 苏格拉底导师系统（6位AI导师 + 跨导师记忆 + 群聊/日记社交世界） + 交互式可视化 + 知识点追踪 + 间隔复习 + 三语界面
 
 ---
 
@@ -602,6 +605,7 @@ cp -r human-skill-tree/skills/05-social-intelligence ~/.claude/skills/     # 人
 
 ## 更新日志
 
+- **v1.4** (2026-03-10): Web 应用升级苏格拉底导师系统——6位AI导师角色、跨导师记忆、社交世界（群聊+日记）、5个故事背景、7层系统提示词
 - **v1.3** (2026-03-09): 更新至 33 个技能；关联交互式 Web 应用（学习进度追踪、间隔复习、三语支持）
 - **v1.2** (2026-03-09): 核心技能加入苏格拉底教学模式；新增 AI Tutor Persona 技能（共 32 个）；所有技能加入进度追踪与间隔复习
 - **v1.1** (2026-03-08): 28 个框架技能全部开发完成；添加验证脚本 + CI；创建 GitHub Discussions、Release v1.0.0、5 个 good-first-issue
