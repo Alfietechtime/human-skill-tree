@@ -487,6 +487,12 @@ If Human Skill Tree helps you learn anything, consider:
 
 ---
 
+## 这是什么
+
+一套 **33 个即装即用的 AI 智能体技能**，能将 ChatGPT、Claude、Gemini、Copilot、DeepSeek 或任何兼容 AI 转化为**结构化、基于科学的学习伙伴**。
+
+这是对 **AI 与想要学习的人类互动方式的升级**。
+
 ### 🎬 演示
 
 <table>
@@ -507,6 +513,71 @@ If Human Skill Tree helps you learn anything, consider:
 <td><img src="docs/demos/chat.gif" width="400" alt="AI 对话学习"/></td>
 </tr>
 </table>
+
+### 💬 看看差别
+
+<table>
+<tr>
+<th>❌ 没有人类技能树</th>
+<th>✅ 有人类技能树</th>
+</tr>
+<tr>
+<td>
+
+**你：** 教我微积分
+
+**AI：** 微积分是研究连续变化的数学分支。有两个主要分支：微分和积分……
+
+*（给你一堵维基百科式的文字墙）*
+
+</td>
+<td>
+
+**你：** 教我微积分
+
+**AI：** 开始之前，让我了解你的基础：
+1. 你能用自己的话说说什么是**函数**吗？
+2. 你接触过**斜率**的概念吗？
+3. 你的目标是——备考还是深入理解？
+
+*（评估你的水平，然后从你的基础开始构建）*
+
+</td>
+</tr>
+<tr>
+<td>
+
+**你：** 我的代码有 bug，帮我修
+
+**AI：** 问题在第12行。把 `arr[i]` 改成 `arr[i-1]`。修改后的代码如下……
+
+*（直接给答案——你什么都没学到）*
+
+</td>
+<td>
+
+**你：** 我的代码有 bug，帮我修
+
+**AI：** 我们一起调试。在我看答案之前：
+1. 你**期望**发生什么？
+2. **实际**发生了什么？
+3. 你觉得哪一行有问题？
+
+试试在循环里加一个 `print(i, arr[i])`——你看到了什么？
+
+*（引导你的调试思维——你学到的是技能，而不仅仅是修复方案）*
+
+</td>
+</tr>
+</table>
+
+| 传统学习 | 裸聊 AI | 🌳 人类技能树 |
+|---|---|---|
+| 一刀切 | 无结构 | 自适应 + 结构化 |
+| 被动（阅读/听讲） | 问答式 | 主动回忆、间隔重复、苏格拉底对话 |
+| 单一学科 | 什么都知道，什么都不会教 | K-12 到职业的精选路径 |
+| 无社交技能训练 | 通用建议 | 文化感知的场景模拟 |
+| 耗时数年 | 即时但易忘 | 既快又记得住 |
 
 ---
 
@@ -578,9 +649,71 @@ cp -r human-skill-tree/skills/05-social-intelligence ~/.claude/skills/     # 人
 
 兼容：**Claude Code** · **Cursor** · **OpenAI Codex** · **Gemini CLI**
 
+---
+
+## 基于学习科学
+
+每个技能都运用认知科学原理——不仅是教**什么**，更是**人脑如何学习和记忆**：
+
+| 原理 | 机制 | 证据 |
+|------|------|------|
+| 🔄 **间隔重复** | 以最优间隔对抗遗忘曲线 | Meta 分析：242 项研究，169K+ 参与者 |
+| 🧪 **主动回忆** | 检索练习使记忆强度提升 10 倍 | Roediger & Butler (2011) |
+| 🎯 **适度困难** | 短期挣扎 → 长期保留 | Bjork & Bjork (2011) |
+| 🔀 **交叉练习** | 混合主题培养辨别能力 | Pan et al. (2018) |
+| 🖼️ **双重编码** | 文字 + 视觉 = 更强编码 | Paivio (1991) |
+| 🪞 **苏格拉底法** | 提问 > 给答案，深度理解 | Chi et al. (2001) |
+| 🧩 **组块化** | 将信息分组为有意义的单元 | Miller (1956) |
+| 📊 **布鲁姆分类** | 6 个认知层次：记忆 → 创造 | Anderson & Krathwohl (2001) |
+
+---
+
+## 覆盖的教育体系
+
+### 🌍 15 个国家体系
+
+| 地区 | 国家 |
+|------|------|
+| **东亚** | 🇨🇳 中国（高考）、🇯🇵 日本（共通テスト）、🇰🇷 韩国（수능）、🇸🇬 新加坡 |
+| **欧洲** | 🇬🇧 英国（GCSE/A-Level）、🇩🇪 德国（Abitur）、🇫🇷 法国（Bac）、🇳🇱 🇨🇭 🇫🇮 |
+| **美洲** | 🇺🇸 美国（SAT/AP）、🇨🇦 加拿大 |
+| **南亚** | 🇮🇳 印度（JEE/NEET） |
+| **中东** | 🇮🇱 以色列（Bagrut） |
+| **大洋洲** | 🇦🇺 澳大利亚（ATAR） |
+
+### 🌐 6 种国际课程
+
+IB · Cambridge IGCSE/A-Level · 蒙台梭利 · 华德福 · 瑞吉欧 · 古典三艺
+
 ### 🌐 互动 Web 应用
 
 在浏览器中体验技能树：**[Human Skill Tree App](https://github.com/24kchengYe/human-skill-tree-app)** — 苏格拉底导师系统（6位AI导师 + 跨导师记忆 + 群聊/日记社交世界） + 交互式可视化 + 知识点追踪 + 间隔复习 + 三语界面
+
+---
+
+## 设计理念
+
+### 为什么叫「技能树」？
+
+在 RPG 游戏里，技能树是通过投入点数解锁能力的分支结构。现实也一样——有前置条件、多条路径、专精是有效的，而且你随时可以重新分配。
+
+### 为什么要做社交智慧？
+
+没有其他 AI 技能项目覆盖**人情世故**——驾驭人际关系的艺术。然而这可以说是人生成功最重要的技能。AI 可以通过场景模拟，成为练习这些技能的安全空间。
+
+### 为什么要基于学习科学？
+
+大多数 AI 辅导是"问个问题，得个答案"。这制造了**学习的幻觉**——你感觉自己懂了，但几天内就忘了。我们的技能围绕记忆的真实运作方式设计：先测再教、分散复习、制造适度困难、建立联系、实际应用。
+
+---
+
+## 参考文献
+
+1. Bastani, H. et al. (2025). "Generative AI without guardrails can harm learning." *PNAS*, 122(26).
+2. Dunlosky, J. et al. (2013). "Improving Students' Learning With Effective Learning Techniques." *Psychological Science in the Public Interest*, 14(1), 4-58.
+3. Donoghue, G.M. & Hattie, J.A.C. (2021). "A Meta-Analysis of Ten Learning Techniques." *Frontiers in Education*.
+4. Tabibian, B. et al. (2019). "Enhancing human learning via spaced repetition optimization." *PNAS*, 116(10), 3988–3993.
+5. Brown, P.C. et al. (2014). *Make It Stick: The Science of Successful Learning*. Harvard University Press.
 
 ---
 
