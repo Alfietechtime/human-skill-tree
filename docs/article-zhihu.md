@@ -292,7 +292,7 @@ MIT / AGPL-3.0 开源协议，免费使用，永远开源。
 
 **全 localStorage 架构**：故意不做后端数据库。用户数据完全留在浏览器——这是一个教育理念的选择，不是技术限制。学习记录是私密的，不应该成为某个公司的数据资产。
 
-**试试看：** 克隆 [human-skill-tree-app](https://github.com/24kchengYe/human-skill-tree-app) 仓库，`npm install && npm run dev` 即可本地体验完整功能。
+**试试看：** 在线体验 [humanskilltree.yechengzhang.com](https://humanskilltree.yechengzhang.com)（国内可直连），或克隆 [human-skill-tree-app](https://github.com/24kchengYe/human-skill-tree-app) 仓库本地运行。
 
 ## 安装Agent Skills（30秒）
 
