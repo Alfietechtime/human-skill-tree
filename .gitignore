@@ -21,10 +21,14 @@ desktop.ini
 dist/
 build/
 *.egg-info/
+app/.next/
+app/tsconfig.tsbuildinfo
 
 # Environment
 .env
 .env.local
+app/.env
+app/.env.local
 
 # Promotion materials (local only)
 docs/article-zhihu.docx
